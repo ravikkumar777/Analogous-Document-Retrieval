@@ -46,4 +46,4 @@ python manage.py runserver
 
 ## Output
 ![output1](https://github.com/ravikkumar777/Analogous-Document-Retrieval/blob/master/screenshots/result%201.png)
-![output2](https://github.com/ravikkumar777/Analogous-Document-Retrieval/blob/master/screenshots/result%202.png)
+![output2](https://github.com/ravikkumar777/Analogous-Document-Retrieval/blob/master/screenshots/result2.png)
